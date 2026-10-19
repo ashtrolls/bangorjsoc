@@ -1,0 +1,13 @@
+body{
+    font-family: Arial,sans-serif;
+    margin:40px;
+    line-height:1.6;
+    background-color:#f9f9f9;
+    color:#333;
+}
+h1,h2{color:#222;}
+input,textarea,select,button{margin-bottom:10px;}
+.event{margin-bottom:20px;}
+img{max-width:400px; margin-top:10px;}
+a{color:#0066cc;text-decoration:none;}
+a:hover{text-decoration:underline;}
